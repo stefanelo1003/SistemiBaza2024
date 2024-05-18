@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\mapiranja\\ekipamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mapiranja\\ekipamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\entiteti\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\entiteti\\alarmnisistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\alarmnisistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\entiteti\\ekipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\ekipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
-              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.Designer.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:08:46.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vozilo.cs",
-              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Vozilo.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\Vozilo.cs",
-              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Vozilo.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\Vozilo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:08:18.371Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -64,15 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlarmniSistem.cs",
-              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\AlarmniSistem.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\AlarmniSistem.cs",
-              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\AlarmniSistem.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\AlarmniSistem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Ekipa.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Ekipa.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\Ekipa.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Ekipa.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\Ekipa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:07:12.006Z",
+              "WhenOpened": "2024-05-18T18:20:06.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EkipaMap.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:20:03.559Z",
               "EditorCaption": ""
             }
           ]

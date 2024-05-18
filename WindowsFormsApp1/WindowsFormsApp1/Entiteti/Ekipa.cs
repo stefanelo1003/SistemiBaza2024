@@ -15,8 +15,5 @@
             Smena = new List<Smena>();
             Intervencija = new List<Intervencija>();    
         }
-
-
-        
     }
 }
