@@ -1,30 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WindowsFormsApp1.Entiteti;
-using FluentNHibernate.Mapping;
-
-namespace WindowsFormsApp1.Mapiranja
+﻿namespace WindowsFormsApp1.Mapiranje
 {
     public class EkipaMap : ClassMap<Ekipa>
     {
-        public EkipaMap() 
+        public EkipaMap()
         {
             Table("EKIPA");
 
-            Id(x => x.RedniBroj, "RBR").GeneratedBy.TriggerIdentity();
+            Id(x => x.RedniBroj, "REDNI_BROJ").GeneratedBy.TriggerIdentity(); // primarni kljuc
 
-            References(x => x.Vodja).Column("VODJA").LazyLoad();
+            References(x => x.Vodja).Column("MATICNI_BROJ_VODJE").LazyLoad(); // 1:1 veza JE_VODJA
 
-            HasMany(x => x.Clanovi).KeyColumn("RBR_EKIPE").Cascade.All().Inverse();
+            HasMany(x => x.Clanovi).KeyColumn("MATICNI_BROJ").Cascade.All().Inverse(); // 1:N EKIPA - FIZICKO_OBEZBEDJENJE
 
-            References(x => x.DuziVozilo).Column("RBR_EKIPE").LazyLoad(); // 1:1 EKIPA-VOZILO
+            References(x => x.Smena).Column("REDNI_BR0J_EKIPE").LazyLoad(); // 1:1 EKIPA - SMENA
 
-            HasMany(x => x.Smena).KeyColumn("RBR_EKIPE").LazyLoad().Cascade.All().Inverse(); // 1:N EKIPA - SMENA (Mozda treba prepraviti)
+            HasMany(x => x.Intervencija).KeyColumn("ID_EKIPE").LazyLoad().Cascade.All().Inverse(); // M:N veza Intervencija
 
-            HasMany(x => x.Intervencija).KeyColumn("RBR_EKIPE").LazyLoad().Cascade.All().Inverse();
+            References(x => x.DuziVozilo).Column("REDNI_BR0J_EKIPE").LazyLoad(); // 1:1 EKIPA - VOZILO
+
+
+
+
+
+
+
+
+
 
 
         }

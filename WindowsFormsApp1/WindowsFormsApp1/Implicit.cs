@@ -4,6 +4,8 @@ global using System.Linq;
 global using System.Text;
 global using System.Threading.Tasks;
 global using NHibernate;
+global using WindowsFormsApp1.Mapiranja;
+global using WindowsFormsApp1.Entiteti;
 global using FluentNHibernate.Mapping;
 global using FluentNHibernate.Cfg;
 global using FluentNHibernate.Cfg.Db;

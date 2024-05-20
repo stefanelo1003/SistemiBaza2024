@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\mapiranja\\ekipamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mapiranja\\ekipamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\entiteti\\istorijasmenaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\istorijasmenaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\faza2\\windowsformsapp1\\windowsformsapp1\\entiteti\\ekipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\ekipa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\entiteti\\istorijasmena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\istorijasmena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\mapiranja\\istorijasmenamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mapiranja\\istorijasmenamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\entiteti\\intervencijaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\intervencijaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\entiteti\\regionalnicentar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\regionalnicentar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\mapiranja\\mengradovimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mapiranja\\mengradovimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\fax\\treca godina\\sistemi baza podataka\\phase2\\windowsformsapp1\\windowsformsapp1\\entiteti\\intervencija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13107ED5-EC56-41E7-ABDF-3642259D05A0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\entiteti\\intervencija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +37,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 242,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,29 +54,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ekipa.cs",
-              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Ekipa.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\Ekipa.cs",
-              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Ekipa.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\Ekipa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "RegionalniCentar.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\RegionalniCentar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\RegionalniCentar.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\RegionalniCentar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\RegionalniCentar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:20:06.795Z",
+              "WhenOpened": "2024-05-20T00:33:19.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Intervencija.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Intervencija.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\Intervencija.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\Intervencija.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\Intervencija.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:05:51.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntervencijaId.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\IntervencijaId.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\IntervencijaId.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\IntervencijaId.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\IntervencijaId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:04:50.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IstorijaSmena.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\IstorijaSmena.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\IstorijaSmena.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\IstorijaSmena.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\IstorijaSmena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:42:59.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EkipaMap.cs",
-              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
-              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Mapiranja\\EkipaMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABdAAAA",
+              "Title": "IstorijaSmenaId.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\IstorijaSmenaId.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Entiteti\\IstorijaSmenaId.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Entiteti\\IstorijaSmenaId.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Entiteti\\IstorijaSmenaId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:20:03.559Z",
+              "WhenOpened": "2024-05-20T00:03:58.919Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IstorijaSmenaMap.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\IstorijaSmenaMap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Mapiranja\\IstorijaSmenaMap.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\IstorijaSmenaMap.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Mapiranja\\IstorijaSmenaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:53:12.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenGradoviMap.cs",
+              "DocumentMoniker": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\MenGradoviMap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Mapiranja\\MenGradoviMap.cs",
+              "ToolTip": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\Mapiranja\\MenGradoviMap.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Mapiranja\\MenGradoviMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:15:50.09Z"
             }
           ]
         }

@@ -5237,11 +5237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+      "projectUniqueName": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
       "projectName": "WindowsFormsApp1",
-      "projectPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+      "projectPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\obj\\",
+      "outputPath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programi\\Microsoft Visual Studio\\VisualStudioSharedComponents\\NuGetPackages"

@@ -13,14 +13,14 @@
         public virtual char DetektorToplotnogOdraza { get; set; } = 'N';
         public virtual int? HorRezolucija { get; set; }
         public virtual int? VerRezolucija { get; set; }
+        public virtual DateTime DatumInstalacije { get; set; }
+        public virtual Objekat Objekat { get; set; }
 
         public virtual Odrzava Odrzava { get; set; }
-        public virtual Instaliran Instaliran { get; set; }
-
         public AlarmniSistem()
         {
+            Objekat = new Objekat();
             Odrzava = new Odrzava();
-            Instaliran = new Instaliran();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXYiHT/+9yqQWTe/3iPrT7OHueQmooq1G+FQUlMnZWHjxOxQN3gOnxprVpeGjUgv2tzvRP/og9S6SKMzZ+OEXw==",
+  "dgSpecHash": "YrV9aZvTImw0VE3LgRSLLc5TNMPQ4K96Up9X0kAhsmoeGDxZ4G5PCDzvXvVz26H7Llm+0bw/jY4IDKhw/8hfZQ==",
   "success": true,
-  "projectFilePath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Faza2\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "projectFilePath": "D:\\fax\\Treca godina\\Sistemi baza podataka\\Phase2\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\fluentnhibernate\\3.3.0\\fluentnhibernate.3.3.0.nupkg.sha512",

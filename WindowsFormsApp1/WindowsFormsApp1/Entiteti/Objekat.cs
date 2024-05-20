@@ -8,15 +8,14 @@
         public virtual int? Povrsina { get; set; }
         public virtual IList<ObjektiTelefoni> KontaktTelefoni { get; set; }
         public virtual IList<Smena> ObuhvataSmenu { get; set; }
-        
+        public virtual IList<AlarmniSistem> AlarmniSistemi { get; set; }    
         public virtual IList<Intervencija> Intervencije { get; set; }
-        public virtual IList<Instaliran> InstaliraniSistemi { get; set; }
         public Objekat()
         {
             KontaktTelefoni = new List<ObjektiTelefoni>();
             ObuhvataSmenu = new List<Smena>();
             Intervencije = new List<Intervencija>();
-            InstaliraniSistemi = new List<Instaliran>();
+            AlarmniSistemi = new List<AlarmniSistem>(); 
         }   
         
     }
