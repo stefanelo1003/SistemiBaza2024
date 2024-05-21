@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WindowsFormsApp1
-build_property.ProjectDir = D:\Факултет\III God, II Semestar\BazePodataka\New folder\WindowsFormsApp1\WindowsFormsApp1\
+build_property.ProjectDir = D:\Fakultet\III godina\Baze\OriginalBaze\WindowsFormsApp1\WindowsFormsApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

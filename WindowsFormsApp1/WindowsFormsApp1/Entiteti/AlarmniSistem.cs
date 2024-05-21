@@ -2,6 +2,8 @@
 {
     public class AlarmniSistem
     {
+
+        public virtual int Proba { get; set; }  
         public virtual int Id { get; protected set; }
         public virtual string Proizvodjac { get; set; }
         public virtual int? GodinaProizvodnje { get; set; }
