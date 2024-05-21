@@ -12,11 +12,6 @@ namespace WindowsFormsApp1.Mapiranja
         {
             Table("ISTORIJA_SMENE");
 
-            CompositeId()
-                .KeyReference(x => x.id, "ID_ISTORIJE")
-                .KeyProperty(x => x.Smene, "ID_SMENE");   
-            
-
         }
     }
 }

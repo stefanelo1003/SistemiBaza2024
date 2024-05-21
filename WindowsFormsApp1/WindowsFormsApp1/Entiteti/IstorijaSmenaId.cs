@@ -1,4 +1,4 @@
-﻿
+﻿/*
 namespace WindowsFormsApp1.Entiteti
 {
     public class IstorijaSmenaId
@@ -22,4 +22,4 @@ namespace WindowsFormsApp1.Entiteti
             return base.GetHashCode();
         }
     }
-}
+}*/

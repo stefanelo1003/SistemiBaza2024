@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1.Entiteti
+﻿/*namespace WindowsFormsApp1.Entiteti
 {
     public class IntervencijaId
     {
@@ -22,3 +22,4 @@
         }
     }
 }
+*/

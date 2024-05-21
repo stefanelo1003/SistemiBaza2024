@@ -9,7 +9,6 @@ namespace WindowsFormsApp1.Entiteti
         public virtual DateTime DatumRodjenja { get; set; }
         public virtual char? Pol { get; set; }
         public virtual string? BorilackaVestina { get; set;}
-
         public virtual Ekipa PripadaEkipi { get; set; }
 
         public FizickoObezbedjenje()

@@ -8,12 +8,12 @@
         public virtual DateTime DatumRodjenja { get; set; }
         public virtual char? Pol { get; set; }
         public virtual IList<RegionalniCentar> RegionalniCentri { get; set; }
-        //public virtual IList<MenGradovi> Gradovi { get; set; }
+        public virtual IList<MenGradovi> Gradovi { get; set; }
 
         public Menadzer()
         {
             RegionalniCentri = new List<RegionalniCentar>();
-            //Gradovi = new List<MenGradovi>();
+            Gradovi = new List<MenGradovi>();
         }
     }
 }

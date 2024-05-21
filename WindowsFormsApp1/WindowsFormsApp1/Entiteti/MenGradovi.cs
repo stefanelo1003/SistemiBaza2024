@@ -2,6 +2,7 @@
 {
     public class MenGradovi
     {
+        public virtual int Id { get; protected set; }
         public virtual Menadzer Menadzer { get; set; }
         public virtual string Grad { get; set; }
         public MenGradovi()
