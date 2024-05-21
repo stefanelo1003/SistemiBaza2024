@@ -22,6 +22,12 @@ namespace WindowsFormsApp1.Mapiranja
             Map(x => x.DatumOd, "DATUM_OD");
             Map(x => x.DatumDo, "DATUM_DO");
 
+
+
+
+
+            
+
             References(x => x.RegistrovanNaRegCentar).Column("ID_REGIONALNOG_CENTRA");
 
             References(x => x.EkipaKojaGaDuzi).Column("REDNI_BROJ_EKIPE");

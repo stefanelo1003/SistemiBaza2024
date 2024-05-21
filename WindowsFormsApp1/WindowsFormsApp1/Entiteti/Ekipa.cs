@@ -2,6 +2,7 @@
 {
     public class Ekipa
     {
+        public virtual int ID { get; set; }
         public virtual int RedniBroj { get; protected set; }
         public virtual FizickoObezbedjenje Vodja { get; set; }
         public virtual IList<FizickoObezbedjenje> Clanovi { get; set; }
